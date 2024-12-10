@@ -1,1 +1,2 @@
-Disallow: assets/images/* 
+User-agent: Googlebot-Image
+Disallow: /
